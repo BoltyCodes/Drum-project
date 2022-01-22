@@ -1,0 +1,68 @@
+body{
+  background-color:grey;
+  text-align:center;
+}
+h1{
+  font-size:100px;
+  color:green;
+  font-family: "Arvo", cursive;
+  text-shadow:3px 0 red;
+}
+footer{
+  color:black;
+    font-family: Comic Sans MS;
+}
+.w{
+  background-image:url("https://github.com/m10hit/Drum-Kit/blob/master/images/tom1.png?raw=true");
+
+}
+.a{
+  background-image:url("https://github.com/m10hit/Drum-Kit/blob/master/images/tom2.png?raw=true");
+}
+.s{
+  background-image:url("https://github.com/m10hit/Drum-Kit/blob/master/images/tom3.png?raw=true");
+
+}
+.d{
+  background-image:url("https://github.com/m10hit/Drum-Kit/blob/master/images/tom4.png?raw=true");
+
+}
+.j{
+  background-image:url("https://github.com/m10hit/Drum-Kit/blob/master/images/snare.png?raw=true");
+
+
+}
+.k{
+  background-image:url("https://github.com/m10hit/Drum-Kit/blob/master/images/crash.png?raw=true");
+
+}
+.l{
+  background-image:url("https://github.com/m10hit/Drum-Kit/blob/master/images/kick.png?raw=true");
+}
+.z{
+  background-image:url("https://i.pinimg.com/originals/89/28/5a/89285a6bab2a4a2f2f42213c88b0837d.jpg");
+}
+.x{
+  background-image:url("https://github.com/m10hit/Drum-Kit/blob/master/images/snare.png?raw=true")
+}
+.set{
+  margin:10% auto;
+  
+}
+.drum{
+  width:150px;
+    height:150px;
+  border:  10px solid;
+  font-size:65px;
+    font-family:Roman Uncial;
+  margin:10px;
+  color:black;
+    border-radius:50%;
+  text-shadow:3px 0 red;
+  font-weight:900;
+}
+.pressed{
+ box-shadow:  14px 4px 0 red;
+  opacity: 0.5;
+
+}
